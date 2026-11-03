@@ -13,6 +13,8 @@ The purpose of this dataset is to analyze team performance and identify statisti
 ## Research Questions
 1. How do shooting percentage, rebounds, and turnovers differ between winning and losing teams?
 2. How does playing at home versus away relate to a team’s winning percentage?
+3. Which team statistic (shooting percentages, rebounds, turnovers, assists) is most strongly correlated with the points a team scores?
 
 ## Selection Requirements
 The dataset exceeds the minimum size requirements, with over 146,000 team records, containing 59 columns. It includes numerical variables such as points and rebounds, categorical variables such as team names, and sufficient information for EDA and questions about factors associated with winning. It comes from an identifiable publisher on Kaggle, has a reported CC0 public-domain license, and contains public sports statistics without sensitive personal information.
+
